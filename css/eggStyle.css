@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://www.pilotonline.com/resizer/y6KPwHPzCX1vraA1CAoAivxtgxw=/fit-in/800x533/smart/filters:fill(black)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/4XSQCHH6YNA4TGVDT2FKCJTNQ4.jpg");
+  background-color: #ffffdd;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+
+}
+
+h1 {
+  color: #fa7d09;
+  font-style: oblique;
+  font-weight: bold;
+}
+h3{
+  color: #f69e7b;
+  font-style: italic;
+  font-weight: bold;
+}
+
+img {
+
+  border-radius: 50%;
+
+}
